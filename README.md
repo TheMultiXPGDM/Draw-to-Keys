@@ -10,3 +10,6 @@ A simple addon that allows you to convert space charts drawn with the annotation
 
 ---
 ![Example 1, a ball following a sequence of drawn paths](/Assets/example1.gif)
+
+---
+<sub>This README is still a WIP</sub>
