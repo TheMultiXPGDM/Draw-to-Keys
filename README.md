@@ -36,6 +36,7 @@ Set the type of animation curve between keyframes:
 - Constant (snap/jump).
 - Linear (mechanical, straight transitions).
 - Bezier (smooth, organic motion).
+
 Or leave it as the scene default.
 
 ---
