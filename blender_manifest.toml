@@ -6,7 +6,7 @@ tagline = "Convert annotation strokes into keyframes"
 maintainer = "TheMultiX PGDM"
 type = "add-on"
 
-website = "https://extensions.blender.org/add-ons/draw-to-keys/"
+website = "https://github.com/TheMultiXPGDM/Draw-to-Keys"
 tags = ["Animation", "3D View"]
 blender_version_min = "5.1.0"
 
