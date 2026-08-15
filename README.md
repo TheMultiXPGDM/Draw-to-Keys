@@ -42,13 +42,7 @@ Or leave it as the scene default.
 ---
 ## Examples
 
-### Typical use of this addon
-1. Draw a main path.
-2. Draw dashes along it.
-3. Select the object to keyframe.
-4. Set your current frame.
-5. Press "Create Keyframes"
-
+### A ball following a sequence of drawn spacing charts
 ![Example 1, a ball following a sequence of drawn paths](/Assets/example1.gif)
 
 ---
