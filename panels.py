@@ -5,7 +5,7 @@ class DRAW2KEYS_PT_Main(bpy.types.Panel):
     bl_label = "Draw to Keys"
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
-    bl_category = "Draw to Keys"
+    bl_category = "Animation"
     bl_options = {'HEADER_LAYOUT_EXPAND'}
 
     def draw(self, context):
@@ -37,10 +37,10 @@ class DRAW2KEYS_PT_Main(bpy.types.Panel):
         col.operator("draw2keys.create_keyframes", icon="DECORATE_KEYFRAME")
 
 class DRAW2KEYS_PT_Advanced(bpy.types.Panel):
-    bl_label = "Advanced"
+    bl_label = "Draw to Keys Advanced"
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
-    bl_category = "Draw to Keys"
+    bl_category = "Animation"
     bl_options = {'DEFAULT_CLOSED'}
 
     def draw(self, context):
