@@ -42,7 +42,16 @@ Or leave it as the scene default.
 ---
 ## Examples
 
+### Typical use of this addon
+1. Draw a main path.
+2. Draw dashes along it.
+3. Select the object to keyframe.
+4. Set your current frame.
+5. Press "Create Keyframes"
+![Example 2, how to animate an object](/Assets/example2.gif)
+
 ### A ball following a sequence of drawn paths
+The ball follows a sequence of drawn paths
 ![Example 1, a ball following a sequence of drawn paths](/Assets/example1.gif)
 
 ---
