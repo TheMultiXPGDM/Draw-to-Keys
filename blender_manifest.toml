@@ -1,13 +1,13 @@
-schema_version = "1.0.0"
+schema_version = "1.0.1"
 id = "draw_to_keys"
-version = "1.0.0"
+version = "1.0.1"
 name = "Draw to Keys"
 tagline = "Convert annotation strokes into keyframes"
 maintainer = "TheMultiX PGDM"
 type = "add-on"
 
 website = "https://github.com/TheMultiXPGDM/Draw-to-Keys"
-tags = ["Animation", "3D View"]
+tags = ["Animation"]
 blender_version_min = "5.1.0"
 
 license = ["SPDX:GPL-3.0-or-later"]
